@@ -1,0 +1,16 @@
+{
+	"id": "InkySuitSkins",
+	"name": "Inky's Suit Skins",
+	"display_name": "Inky's Suit Skins",
+	"author": [ "Inky 'Ivory' Enby"],
+	"description": "The collection of suit skins I've made for Balatro.",
+	"prefix": "inky",
+	"main_file": "ISS.lua",
+	"priority": 0,
+	"badge_colour": "2E0085",
+	"badge_text_colour": "FFFFFF",
+	"version": "1.0"
+	//"dependencies": [
+	//	"Steamodded (>=1.0.0~ALPHA-1404b)"
+	//]
+}
