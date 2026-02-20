@@ -34,5 +34,12 @@ IS_UTIL.DECK_SKINS = {
     suits = {
       'Diamonds',
     }
+  },
+  {
+	  id = 'inky',
+	  name = 'InkyEnby',
+	  suits = {
+	    'Spades',
+	  }
   }
 }
